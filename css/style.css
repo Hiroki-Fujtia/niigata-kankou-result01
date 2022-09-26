@@ -426,4 +426,12 @@ main {
         width: 90%;
         padding:20px 0px;
     }
+        .prize-text {
+        text-align: center;
+        font-size:1.2rem;
+        font-weight: 600;
+    }
+    .icon-link img {
+        width: 25px;
+    }
 }
