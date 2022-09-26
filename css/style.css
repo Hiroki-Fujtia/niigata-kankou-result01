@@ -258,9 +258,9 @@ main {
 }
 
 /*==============================================*/
-/*499px以下*/
+/*520px以下*/
 
-@media (max-width:499px) {
+@media (max-width:520px) {
     .main-copy {
         padding-top: 40px;
         padding-bottom: 40px;
@@ -372,7 +372,7 @@ main {
 }
 .prize-text {
     text-align: center;
-    font-size:1.5rem;
+    font-size:1.3rem;
     font-weight: 600;
 }
 .name {
@@ -426,11 +426,7 @@ main {
         width: 90%;
         padding:20px 0px;
     }
-        .prize-text {
-        text-align: center;
-        font-size:1.2rem;
-        font-weight: 600;
-    }
+  
     .icon-link img {
         width: 25px;
     }
