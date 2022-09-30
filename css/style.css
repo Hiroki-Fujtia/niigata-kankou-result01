@@ -164,7 +164,7 @@ main {
     margin-left: auto;
     margin-right: auto;
 }
-@media (max-width:499px) {
+@media (max-width:520px) {
     .kyousan {
         margin-top:0;
     }
@@ -426,7 +426,7 @@ main {
         width: 90%;
         padding:20px 0px;
     }
-  
+   
     .icon-link img {
         width: 25px;
     }
